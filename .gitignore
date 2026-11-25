@@ -1,0 +1,14 @@
+Code python/data
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers temporaires ou systèmes
+*.log
+.DS_Store
+
+# Environnement et secrets
+venv/
+.venv/
+.env
+.vscode/
